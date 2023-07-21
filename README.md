@@ -49,7 +49,7 @@ The findings of this project can be valuable for similar image classification ta
 
 ## Usage
 
-To use the classification models developed in this project, refer to the provided code and Jupyter notebooks in the repository. The necessary dataset and model files are also included for ease of use.
+To use the classification models developed in this project, refer to the provided code and Jupyter notebooks in the repository. 
 
 ## License
 
